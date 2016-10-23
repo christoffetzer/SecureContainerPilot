@@ -1,0 +1,192 @@
+
+1. Fixed keywords 
+
+Y       Cloud Computing models
+
+Y       Cloud infrastructures
+
+Y       Cloud computing
+
+Y       Cloud trust and security
+
+Y       Cloud services
+
+Y       Cloud architectures
+
+
+
+2. Free keywords (200 char)
+
+SGX, Docker, container, secure container, Docker Swarm
+
+3.  Ethics issues table
+Remark: This Table should be completed as an essential part of your proposal. Answer “Yes” or “No” to all of the questions below. If an answer is “Yes”, then indicate in the adjacent box at which page in your full proposal further information relating to that issue can be found.
+
+Please note that if you answer YES to any of the questions below, you are requested to provide additional information and documentation in Sec 4.2
+
+
+
+1. HUMAN EMBRYOS/FOETUSES
+
+1.     Does your research involve Human Embryonic Stem Cells (hESCs)? No
+
+a.     Will they be directly derived from embryos within this project? No
+
+b.     Are they previously established cells lines? No
+
+2.     Does your research involve the use of human embryos? No
+
+3.     Does your research involve the use of human foetal tissues / cells? No
+
+
+
+2. HUMANS
+
+1.     Does your research involve human participants? No
+
+a.     Are they volunteers for social or human sciences research? No
+
+b.     Are they persons unable to give informed consent? No
+
+c.     Are they vulnerable individuals or groups? No
+
+d.     Are they children/minors? No
+
+e.     Are they patients? No
+
+f.      Are they healthy volunteers for medical studies? No
+
+2.     Does your research involve physical interventions on the study participants? No
+
+a.  ​   Does it involve collection of biological samples? No
+
+3.     Does it involve invasive techniques? No
+
+
+
+3. HUMAN CELLS / TISSUES
+
+1.     Does your research involve human cells or tissues (other than from Human Embryos/Foetuses, i.e. section 1)? No
+
+a.     Are they available commercially? No
+
+b.     Are they obtained within this project? No
+
+c.     Are they obtained within another project? No
+
+d.     Are they deposited in a biobank? No
+
+
+
+4. PERSONAL DATA (ii)
+
+1.     Does your research involve personal data collection and/or processing? No
+
+a.     Does it involve the collection and/or processing of sensitive personal data (e.g.: health, sexual lifestyle, ethnicity, political opinion, religious or philosophical conviction)? No
+
+b.     Does it involve processing of genetic information? No
+
+c.     Does it involve tracking or observation of participants? No
+
+2.     Does your research involve further processing of previously collected personal data (secondary use)? No
+
+
+
+5. ANIMALS (iii)
+
+1.     Does your research involve animals?
+
+a.     Are they vertebrates? No
+
+b.     Are they non-human primates? No
+
+c.     Are they genetically modified? (iv) (regulation) No
+
+d.     Are they cloned farm animals? No
+
+e.     Are they endangered species? No
+
+f.      Please indicate the species involved (max 1000char):
+
+
+
+6. THIRD COUNTRIES
+
+1.     Does your research involve non-EU countries? 
+
+NO
+
+2.     Do you plan to use local resources (e.g. animal and/or human tissue samples, genetic material, live animals, human remains, materials of historical value, endangered fauna or flora samples, etc.)? (v) 
+ No
+
+3.     Do you plan to import any material from non-EU countries into the EU? No
+
+·       For data imports, please fill in also section 4.
+
+·       For imports concerning human cells or tissues, fill in also section 3.
+
+​Specify material and countries involved: (max 1000char)
+
+4.     Do you plan to export any material from the EU to non-EU countries? No
+
+·       For data exports, please fill in also section 4.
+
+·       For exports concerning human cells or tissues, fill in also section 3.
+
+​Specify material and countries involved: (max 1000char)
+
+5.     If your research involves low and/or lower middle income countries, are benefits-sharing measures foreseen? (vii) No
+
+6.     Could the situation in the country put the individuals taking part in the research at risk? No
+
+
+
+7. ENVIRONMENT & HEALTH and SAFETY
+
+1.     Does your research involve the use of elements that may cause harm to the environment, to animals or plants? No
+
+2.     For research involving animal experiments, please fill in also section 5.
+
+3.     Does your research deal with endangered fauna and/or flora and/or protected areas? No
+
+4.     Does your research involve the use of elements that may cause harm to humans, including research staff? No
+
+·       ​​For research involving human participants, please fill in also section 2.
+
+
+
+8. DUAL USE (vii)
+
+1.     Does your research have the potential for military applications? No
+
+
+
+9. MISUSE
+
+1.     Does your research have the potential for malevolent/criminal/terrorist abuse? No
+
+
+
+10. OTHER ETHICS ISSUES
+
+1.     Are there any other ethics issues that should be taken into consideration? Please specify (max 1000char) 
+No
+
+
+
+4. reasons for opting out of pilot on Open Research Data
+
+1.     the project does not generate any data
+
+2.     to allow the protection of results (e.g. patenting)
+
+3.     incompatibility with the need for confidentiality linked to security reasons
+
+4.     incompatibility with privacy/data protection reasons
+
+5.     achievement of the project's main aim would be jeopardised
+
+6.     other legitimate reasons (up to 300char)
+
+10.4
+
