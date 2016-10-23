@@ -1,4 +1,10 @@
 
+Proposal title:
+Secure Container Pilot (SCP)Duration: 30 months
+
+Abstract: -> see .docx.
+
+
 1. Fixed keywords 
 
 Y       Cloud Computing models
